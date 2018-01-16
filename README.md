@@ -56,6 +56,7 @@ https://docs.python.org/2/library/configparser.html
 git clone https://github.com/anmisccali/HashConnections
 
 pip install -r requirements.txt
+<br>
 Put your API key into the config.ini file
 
 ---
