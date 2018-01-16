@@ -1,0 +1,4 @@
+requests
+investigate
+argparse
+ConfigParser
