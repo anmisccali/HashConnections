@@ -41,9 +41,13 @@ supnewdmn.com
 An Investigate API key: https://docs.umbrella.com/developer/investigate-api/
 
 https://github.com/opendns/pyinvestigate
+<br>
 https://github.com/requests/requests
+<br>
 https://docs.python.org/2.7/library/argparse.html
+<br>
 https://docs.python.org/2/library/configparser.html
+<br>
 
 ---
 *Installation*
